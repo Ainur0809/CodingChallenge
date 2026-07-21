@@ -3,5 +3,7 @@ package org.example.revert;
 public class RevertDemo {
     public static void main(String[] args) {
         System.out.println("This line has a bug!!!");
+        System.out.println("TBug has been fixed!!!");
+
     }
 }
